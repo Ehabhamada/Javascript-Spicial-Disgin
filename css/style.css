@@ -202,9 +202,7 @@ border: #fff 2px solid;
 
 body{
     font-family: 'Open Sans', sans-serif;
-    text-transform:capitalize;
-   
-    
+    text-transform:capitalize;   
 }
 /* Start landing page */
 .landing-page{
@@ -214,6 +212,7 @@ body{
     background-repeat: no-repeat;
     position: relative;
 }
+
 .landing-page .overlay{
     width: 100%;
     height: 100%;

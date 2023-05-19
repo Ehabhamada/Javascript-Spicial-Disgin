@@ -2,7 +2,7 @@
 let landingPage =document.querySelector ( ".landing-page" ) ;
 // Creat array imgs
 let imgarry=[];
-for(let i = 0; i < 20 ; i++){
+for(let i = 0; i < 17 ; i++){
     imgarry.push(`${i}.jpg`)
 }
 
